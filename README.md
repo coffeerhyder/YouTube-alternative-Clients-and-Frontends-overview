@@ -14,3 +14,5 @@ A lot of YT videos contain sponsored segments that are part of the video and thu
 SponsorBlock does exactly that:  
 SB users can vote for video segments of different categories which will then be automatically skipped.
 It is available as addon for all major browsers and is also included in a lot of 3rd party YT clients.
+
+# Overview 
