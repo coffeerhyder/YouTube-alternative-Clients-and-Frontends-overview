@@ -23,7 +23,7 @@ According to a [video of LinusTechTips](https://www.youtube.com/watch?v=b9FEpB36
 Some people even made projects that can free downloaded YT videos of such segments such as [SponSkrub](https://github.com/faissaloo/SponSkrub).
 
 ## [Return YouTube Dislike](https://github.com/Anarios/return-youtube-dislike)
-todo
+Return YouTube Dislike is an open-source extension that returns the YouTube dislike count.
 
 # Overview
 **If you want to sort the following table you can go with [this solution](https://stackoverflow.com/questions/42843288/is-there-any-way-to-make-markdown-tables-sortable).**  
