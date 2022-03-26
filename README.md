@@ -27,24 +27,30 @@ Some people even made projects that can free downloaded YT videos of such segmen
 Return YouTube Dislike is an open-source extension that returns the YouTube dislike count.
 
 # Overview
-**If you want to sort the following table you can go with [this solution](https://stackoverflow.com/questions/42843288/is-there-any-way-to-make-markdown-tables-sortable).**  
+**If you want to sort the table down below you can go with [this solution](https://stackoverflow.com/questions/42843288/is-there-any-way-to-make-markdown-tables-sortable).**  
 Project | Platforms | Open Source | Free | Based on | ADB | SB | Dislikes | Login | BP | DLs | ADBW
 --- | --- | --- | --- |--- |--- |--- |--- |---  |---  |---  |---
 Browser | All | ✅ | ✅  |--- |✅ |✅ |✅  |✅  |✅  | ✅ | ✅
 [Vanced](https://github.com/coffeerhyder/YouTube-alternative-Clients-and-Frontends-overview#vanced) | Android | ❌ | ✅ | --- | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅
-[NewPipe](https://github.com/TeamNewPipe/NewPipe) | Android | ✅ | ✅ | --- | ✅ | ❌ | ? | ❌ | ✅ | ✅ | ?
-[NewPipe x SponsorBlock](https://github.com/polymorphicshade/NewPipe) | Android | ✅ | ✅ | --- | ✅ | ✅ | ? | ❌ | ✅ | ✅ | ?
-[SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) | AndroidTV | ✅ | ✅ | --- | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ?
-KODI | All | ✅ | ✅  |--- |✅ |✅ | ❌  |✅  |✅  | ❌ | ?
+[LibreTube](https://github.com/libre-tube/LibreTube) | Android | ✅ | ✅ | Piped | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌
+[NewPipe](https://github.com/TeamNewPipe/NewPipe) | Android | ✅ | ✅ | --- | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌
+[NewPipe x SponsorBlock](https://github.com/polymorphicshade/NewPipe) | Android | ✅ | ✅ | --- | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ❌
+[SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) | AndroidTV | ✅ | ✅ | --- | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌
+[KODI](https://github.com/coffeerhyder/YouTube-alternative-Clients-and-Frontends-overview#KODI) | All | ✅ | ✅  |--- |✅ |✅ | ❌  |✅  |✅  | ❌ | ❌
 ### TODO add to list:
 **Android:**
-* LibreTube: https://github.com/libre-tube/LibreTube
+* Piped https://github.com/TeamPiped/Piped Open source alternative frontend for YouTube
 *  ~~Pure Tuber: https://www.puretuber.com/en or https://play.google.com/store/apps/details?id=free.tube.premium.advanced.tuber~~ **DO NOT USE!** Several people have warned about this! Seems to be a commercial version of NewPipe.
-* YouTube Pink (no legit link yet)
+* ~~YouTube Pink~~ re-theme of Vanced
 * GoTube: https://play.google.com/store/apps/details?id=premium.gotube.adblock.utube
+* SkyTube https://github.com/SkyTubeTeam/SkyTube
+* MusicPiped https://github.com/deep-gaurav/MusicPiped
+* VueTube https://github.com/Frontesque/VueTube
+* SongTube https://github.com/SongTube/SongTube-App | iOS + Android
+* DVD https://f-droid.org/de/packages/org.yausername.dvd/ an Android front-end for [yt-dlp](https://github.com/yt-dlp/yt-dlp) (an extremely powerful downloader with support for hundreds of sites)
 **iOS:**
 * uYou: https://github.com/MiRO92/uYou-for-YouTube
-* uYouPlus: https://github.com/qnblackcat/uYouPlus
+* uYouPlus: https://github.com/qnblackcat/uYouPlus a modded version of the official iOS app (arguably the most feature-complete alternative to Vanced)
 * Video Lite: https://apps.apple.com/de/app/video-lite-no-ads/id1598997500
 * YubePip: https://apps.apple.com/de/app/yubepip-youtube-pip-player/id1591269922
 * iSponsorBlock: https://apps.apple.com/de/app/vinegar-tube-cleaner/id1591303229
@@ -53,7 +59,9 @@ KODI | All | ✅ | ✅  |--- |✅ |✅ | ❌  |✅  |✅  | ❌ | ?
 * YouTube++ (no legit link yet)
 **Desktop:**
 * KODI + KODI and TubeCast: https://github.com/enen92/script.tubecast
-
+* 
+**Browser / alternative front-ends**
+* Invidious https://invidious.io/
 
 # More details
 Some of the projects in the list are worth adding some extra information which you will find below.
@@ -62,7 +70,9 @@ Use a browser of your choice + open source adblocker like [U Block Origin](https
 ## Vanced
 YouTube Vanced has been officially shut down but to this moment the app is still working but it might be harder to find and install.  
 At this moment it's unclear whether or not someone will resume this project but there is a related subreddit in which such information can most likely be found in the future: [/r/AfterVanced](https://www.reddit.com/r/AfterVanced/)
-**Be especially careful not to install fakes or adware.**  
+**Be especially careful not to install fakes or adware.  
+There is a re-theme of Vanced called 'YouTube Pink'. Be careful with this as well!**  
+As of 2022-03-26 the 'old' Vanced Manager is still working as is contains a mirror as fallback where it gets the Vanced APKs and Vanced MicroG from so all you have to do to get Vanced is to find a source for the Vanced Manager.
 Below is a collection of links that may or may not lead to genuine ways to install Vanced:
 * https://www.reddit.com/r/Vanced/comments/tdzmgw/other_how_to_install_and_use_vanced_postshutdown/
 * https://www.reddit.com/r/AfterVanced/comments/tk1fdr/so_you_want_to_install_andor_reinstall_vanced/
@@ -70,6 +80,24 @@ Below is a collection of links that may or may not lead to genuine ways to insta
 * https://vanced.esherloon.com/ ([on reddit](https://www.reddit.com/r/AfterVanced/comments/tj6dsv/release_youtube_vanced_mirror_and_custom_vanced/))
 * https://t.me/Unofficial_YouTube_Vanced_Module
 * https://github.com/pixincreate/Vanced
+* https://github.com/ReVancedTeam
+# [KODI](https://kodi.tv/download/)
+KODI + [YT Addon](https://github.com/anxdpanic/plugin.video.youtube) + [SponsorBlock Addon](https://github.com/siku2/script.service.sponsorblock)  
+**Alternative**: KODI + New YT Addon [Tubed](https://github.com/anxdpanic/plugin.video.tubed) (no SponsorBlock support yet)
+KODI + YT can be a bit complex to setup and some features like access to the "Watch later" YT playlist can be harder to accomplish.
+1. Install the mentioned addons and setup YT with your personal YT API keys as explained [here](https://seo-michael.co.uk/how-to-create-your-own-youtube-api-key-id-and-secret/).
+2. The watch later playlist is not accessible by default because YT has changed their API.  
+If you are frequently using the watch later playlist, get your watch later playlistID as explained [here](https://github.com/anxdpanic/plugin.video.youtube/issues/69#issuecomment-766843932) and put it in the corresponding field in the KODI YT addon settings.  
+It is recommended to store this internal playlistID as it never changes obtaining it from Google can be a bit time consuming.
+3. Extra hint regarding handling of the watch later playlist:
+By default KODI will auto-remove all watched items from the watch later playlist.  
+If you do not like this behavior you can disable it in the YT addon settings.
+4. SponsorBlock settings  
+If you're using SponsorBlock in KODI, check out the settings by Clicking on **options** when the YT addon is highlighted -> SponsorBlock
 # Misc
 ## Similar projects
 * https://github.com/mendel5/alternative-front-ends
+* https://gist.github.com/SkyyySi/1b621c7c20ae7e0865a8ac428156c1cf
+## TODOs for this project
+* Update main table columns: Maybe remove "Adblock" and "Adblock Whitelisting" column: All YT alternatives either have no ads or block them and nearly none provides Adblock-Whitelisting (only Vanced?)
+* Update main table: Test- and add remaining projects
