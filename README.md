@@ -58,7 +58,8 @@ Project | Platforms | Open Source | Free | Based on | ADB | SB | Dislikes | Logi
 * Yattee: https://github.com/yattee/yattee
 * YouTube++ (no legit link yet)
 **Desktop:**
-* KODI + KODI and TubeCast: https://github.com/enen92/script.tubecast
+* KODI + KODI and TubeCast https://github.com/enen92/script.tubecast
+* MyTube https://www.microsoft.com/en-us/p/mytube/9wzdncrcwf3l#activetab=pivot:overviewtab
 **Browser / alternative front-ends**
 * Invidious https://invidious.io/
 
