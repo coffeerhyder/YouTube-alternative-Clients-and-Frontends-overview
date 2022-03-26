@@ -70,7 +70,7 @@ Other addons worth mentioning: [Enhancer for YouTube](https://www.mrfdev.com/enh
 **Browser on mobile**
 On mobile, you'll need to install a browser, like [IceRaven](https://github.com/fork-maintainers/iceraven-browser) or [KiwiBrowser](https://kiwibrowser.com/), then install the addons from their respective adddon store.  
 Depending on the browser, you'll additionally need to install a user script for background playber. Alternatively, the [Brave browser](https://brave.com/) supports background playback OOTB (needs to be enabled first) and a build in ad-blocker, but no extension / add-on support.
-## Vanced
+## Vanced (old website [vancedapp.com](https://vancedapp.com/))
 YouTube Vanced has been officially shut down but to this moment the app is still working but it might be harder to find and install.  
 At this moment it's unclear whether or not someone will resume this project but there is a related subreddit in which such information can most likely be found in the future: [/r/AfterVanced](https://www.reddit.com/r/AfterVanced/)
 **Be especially careful not to install fakes or adware.  
