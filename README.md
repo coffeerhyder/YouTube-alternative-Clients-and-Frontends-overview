@@ -60,8 +60,14 @@ Project | Platforms | Open Source | Free | Based on | ADB | SB | Dislikes | Logi
 **Desktop:**
 * KODI + KODI and TubeCast https://github.com/enen92/script.tubecast
 * MyTube https://www.microsoft.com/en-us/p/mytube/9wzdncrcwf3l#activetab=pivot:overviewtab
-**Browser / alternative front-ends**
+**Browser / alternative front-ends:**
 * Invidious https://invidious.io/
+**🔸Work in progress:**  
+*  [ReVanced](https://revanced.app/)  
+*  [VueTube](https://github.com/Frontesque/VueTube)  
+*  [Hyperion](https://discord.gg/dNZ2Ay4gga)  
+*  [Eclipsed](https://discord.gg/SDsaQqvGJF)  
+*  [WebTube](https://discord.gg/zypWQvxuGe)
 
 # More details
 Some of the projects in the list are worth adding some extra information which you will find below.
