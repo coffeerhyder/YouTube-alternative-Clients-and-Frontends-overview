@@ -91,6 +91,9 @@ Below is a collection of links that may or may not lead to genuine ways to insta
 * https://t.me/Unofficial_YouTube_Vanced_Module
 * https://github.com/pixincreate/Vanced
 * https://github.com/ReVancedTeam
+* https://revanced.app/
+* https://www.reddit.com/r/revancedapp/comments/tjb89y/official_revanced_subreddit/
+* https://www.reddit.com/r/AfterVanced/comments/tpmzcb/how_to_change_the_channel_url_in_vanced_manager/
 # [KODI](https://kodi.tv/download/)
 KODI + [YT Addon](https://github.com/anxdpanic/plugin.video.youtube) + [SponsorBlock Addon](https://github.com/siku2/script.service.sponsorblock)  
 **Alternative**: KODI + New YT Addon [Tubed](https://github.com/anxdpanic/plugin.video.tubed) (no SponsorBlock support yet)  
