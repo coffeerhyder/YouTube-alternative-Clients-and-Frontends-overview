@@ -62,6 +62,7 @@ Project | Platforms | Open Source | Free | Based on | ADB | SB | Dislikes | Logi
 * MyTube https://www.microsoft.com/en-us/p/mytube/9wzdncrcwf3l#activetab=pivot:overviewtab
 **Browser / alternative front-ends:**
 * Invidious https://invidious.io/
+* Viewtube https://github.com/ViewTube/viewtube-vue | https://viewtube.io/
 **🔸Work in progress:**  
 *  [ReVanced](https://revanced.app/)  
 *  [VueTube](https://github.com/Frontesque/VueTube)  
