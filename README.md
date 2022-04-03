@@ -37,7 +37,7 @@ Project | Platforms | Open Source | Free | Based on | ADB | SB | Dislikes | Logi
 [NewPipe x SponsorBlock](https://github.com/polymorphicshade/NewPipe) | Android | ✅ | ✅ | --- | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ❌
 [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) | AndroidTV | ✅ | ✅ | --- | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌
 [KODI](https://github.com/coffeerhyder/YouTube-alternative-Clients-and-Frontends-overview#KODI) | All | ✅ | ✅  |--- |✅ |✅ | ❌  |✅  |✅  | ❌ | ❌
-### TODO add to list:
+### TODO add to overview-table:
 **Android:**
 * Piped https://github.com/TeamPiped/Piped Open source alternative frontend for YouTube
 *  ~~Pure Tuber: https://www.puretuber.com/en or https://play.google.com/store/apps/details?id=free.tube.premium.advanced.tuber~~ **DO NOT USE!** Several people have warned about this! Seems to be a commercial version of NewPipe.
@@ -48,6 +48,7 @@ Project | Platforms | Open Source | Free | Based on | ADB | SB | Dislikes | Logi
 * VueTube https://github.com/Frontesque/VueTube
 * SongTube https://github.com/SongTube/SongTube-App | iOS + Android
 * DVD https://f-droid.org/de/packages/org.yausername.dvd/ an Android front-end for [yt-dlp](https://github.com/yt-dlp/yt-dlp) (an extremely powerful downloader with support for hundreds of sites)
+
 **iOS:**
 * uYou: https://github.com/MiRO92/uYou-for-YouTube
 * uYouPlus: https://github.com/qnblackcat/uYouPlus a modded version of the official iOS app (arguably the most feature-complete alternative to Vanced)
@@ -57,12 +58,14 @@ Project | Platforms | Open Source | Free | Based on | ADB | SB | Dislikes | Logi
 * Brave Browser (includes YT adblocker): https://apps.apple.com/de/app/brave-private-internet-browser/id1052879175
 * Yattee: https://github.com/yattee/yattee
 * YouTube++ (no legit link yet)
+
 **Desktop:**
 * KODI + KODI and TubeCast https://github.com/enen92/script.tubecast
 * MyTube https://www.microsoft.com/en-us/p/mytube/9wzdncrcwf3l#activetab=pivot:overviewtab
 **Browser / alternative front-ends:**
 * Invidious https://invidious.io/
 * Viewtube https://github.com/ViewTube/viewtube-vue | https://viewtube.io/
+
 **🔸Work in progress:**  
 *  [ReVanced](https://revanced.app/)  
 *  [VueTube](https://github.com/Frontesque/VueTube)  
