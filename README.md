@@ -44,10 +44,16 @@ Project | Platforms | Open Source | Free | Based on | ADB | SB | Dislikes | Logi
 * ~~YouTube Pink~~ re-theme of [Vanced](https://github.com/coffeerhyder/YouTube-alternative-Clients-and-Frontends-overview#vanced)
 * GoTube: https://play.google.com/store/apps/details?id=premium.gotube.adblock.utube
 * SkyTube https://github.com/SkyTubeTeam/SkyTube
+* SkyTube Extra https://android.izzysoft.de/repo/apk/free.rm.skytube.extra
 * MusicPiped https://github.com/deep-gaurav/MusicPiped
 * VueTube https://github.com/Frontesque/VueTube
 * SongTube https://github.com/SongTube/SongTube-App | iOS + Android
 * DVD https://f-droid.org/de/packages/org.yausername.dvd/ an Android front-end for [yt-dlp](https://github.com/yt-dlp/yt-dlp) (an extremely powerful downloader with support for hundreds of sites)
+* ASTRON https://github.com/astroncc/astron_app (**not** open source)
+* DailyTube https://play.google.com/store/apps/details?id=free.daily.tube.background
+* FloatTube https://play.google.com/store/apps/details?id=com.xpp.tubeAssistant
+* YouTube Thunder https://www.samapkstore.com/2022/02/youtube-thunder.html
+* YouTube Pro https://www.samapkstore.com/2021/04/download-youtube-pro.html
 
 **iOS:**
 * uYou: https://github.com/MiRO92/uYou-for-YouTube
@@ -113,8 +119,10 @@ If you do not like this behavior you can disable it in the YT addon settings.
 If you're using SponsorBlock in KODI, check out the settings by Clicking on **options** when the YT addon is highlighted -> SponsorBlock
 # Misc
 ## Similar projects
-* https://github.com/mendel5/alternative-front-ends
+* https://github.com/mendel5/alternative-front-ends 
 * https://gist.github.com/SkyyySi/1b621c7c20ae7e0865a8ac428156c1cf
+* https://www.reddit.com/r/AfterVanced/comments/tigkow/youtube_vanced_alternatives/
+* https://www.reddit.com/r/AfterVanced/comments/tiqzon/youtube_music_vanced_alternatives/
 ## TODOs for this project
 * Update main table columns: Maybe remove "Adblock" and "Adblock Whitelisting" column: All YT alternatives either have no ads or block them and nearly none provides Adblock-Whitelisting (only Vanced?)
 * Update main table: Test- and add remaining projects
