@@ -94,7 +94,6 @@ At this moment it's unclear whether or not someone will resume this project but 
 There is a re-theme of Vanced called 'YouTube Pink'. Be careful with this as well!**  
 As of 2022-03-26 the 'old' Vanced Manager is still working as is contains a mirror as fallback where it gets the Vanced APKs and Vanced MicroG from so all you have to do to get Vanced is to find a source for the Vanced Manager.
 Below is a collection of links that may or may not lead to genuine ways to install Vanced:
-* https://www.reddit.com/r/Vanced/comments/tdzmgw/other_how_to_install_and_use_vanced_postshutdown/
 * https://www.reddit.com/r/AfterVanced/comments/tk1fdr/so_you_want_to_install_andor_reinstall_vanced/
 * https://www.apkmirror.com/apk/team-vanced/
 * https://vanced.esherloon.com/ ([on reddit](https://www.reddit.com/r/AfterVanced/comments/tj6dsv/release_youtube_vanced_mirror_and_custom_vanced/))
@@ -102,9 +101,11 @@ Below is a collection of links that may or may not lead to genuine ways to insta
 * https://github.com/pixincreate/Vanced
 * https://github.com/ReVancedTeam
 * https://revanced.app/
-* https://www.reddit.com/r/revancedapp/comments/tjb89y/official_revanced_subreddit/
+* https://www.reddit.com/r/revancedapp/
 * https://www.reddit.com/r/AfterVanced/comments/tpmzcb/how_to_change_the_channel_url_in_vanced_manager/
 * https://www.reddit.com/r/AfterVanced/comments/twzq2s/the_sticky_of_stickies_all_the_important_stuff/
+* https://www.reddit.com/r/AfterVanced/
+* https://vancedmanager.com/
 # [KODI](https://kodi.tv/download/)
 KODI + [YT Addon](https://github.com/anxdpanic/plugin.video.youtube) + [SponsorBlock Addon](https://github.com/siku2/script.service.sponsorblock)  
 **Alternative**: KODI + New YT Addon [Tubed](https://github.com/anxdpanic/plugin.video.tubed) (no SponsorBlock support yet)  
