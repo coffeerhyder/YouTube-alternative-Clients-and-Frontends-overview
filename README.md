@@ -4,14 +4,14 @@
 Overview of alternative YouTube Clients and Frontends along with SponsorBlock and or Return YouTube Dislike integration
 
 ## Abbreviations
-Abbreviation | Meaning
---- | ---
-ADB | Adblock/Adblocker
-ADBW | Adblock whitelisting and or SponsorBlock whitelisting
-BP | Background Playback
-PiP | Picture in Picture (sometimes called "Popup Player")
-SB | SponsorBlock
-YT | YouTube
+| Abbreviation | Meaning                                               |
+|--------------|-------------------------------------------------------|
+| ADB          | Adblock/Adblocker                                     |
+| ADBW         | Adblock whitelisting and or SponsorBlock whitelisting |
+| BP           | Background Playback                                   |
+| PiP          | Picture in Picture (sometimes called "Popup Player")  |
+| SB           | SponsorBlock                                          |
+| YT           | YouTube                                               |
 
 # Useful YT additions
 ## [SponsorBlock](https://sponsor.ajay.app/)
@@ -37,6 +37,8 @@ Project | Platforms | Open Source | Free | Based on | ADB | SB | Dislikes | Logi
 [NewPipe x SponsorBlock](https://github.com/polymorphicshade/NewPipe) | Android | ✅ | ✅ | --- | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ❌
 [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) | AndroidTV | ✅ | ✅ | --- | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌
 [KODI](https://github.com/coffeerhyder/YouTube-alternative-Clients-and-Frontends-overview#KODI) | All | ✅ | ✅  |--- |✅ |✅ | ❌  |✅  |✅  | ❌ | ❌
+[VueTube](https://github.com/VueTubeApp/VueTube) | Android, iOS | ✅ | ✅  |--- |✅ |✅ | ✅  |❌  |✅  | ❌ | ❌
+
 ### TODO add to overview-table:
 **Android:**
 * Piped https://github.com/TeamPiped/Piped Open source alternative frontend for YouTube
@@ -46,7 +48,6 @@ Project | Platforms | Open Source | Free | Based on | ADB | SB | Dislikes | Logi
 * SkyTube https://github.com/SkyTubeTeam/SkyTube
 * SkyTube Extra https://android.izzysoft.de/repo/apk/free.rm.skytube.extra
 * MusicPiped https://github.com/deep-gaurav/MusicPiped
-* VueTube https://github.com/Frontesque/VueTube
 * SongTube https://github.com/SongTube/SongTube-App | iOS + Android
 * DVD https://f-droid.org/de/packages/org.yausername.dvd/ an Android front-end for [yt-dlp](https://github.com/yt-dlp/yt-dlp) (an extremely powerful downloader with support for hundreds of sites)
 * ASTRON https://github.com/astroncc/astron_app (**not** open source)
@@ -73,8 +74,7 @@ Project | Platforms | Open Source | Free | Based on | ADB | SB | Dislikes | Logi
 * Viewtube https://github.com/ViewTube/viewtube-vue | https://viewtube.io/
 
 **🔸Work in progress:**  
-*  [ReVanced](https://revanced.app/)  
-*  [VueTube](https://github.com/Frontesque/VueTube)  
+*  [ReVanced](https://revanced.app/)
 *  [Hyperion](https://discord.gg/dNZ2Ay4gga)  
 *  [Eclipsed](https://discord.gg/SDsaQqvGJF)  
 *  [WebTube](https://discord.gg/zypWQvxuGe)
