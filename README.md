@@ -82,7 +82,7 @@ Project | Platforms | Open Source | Free | Based on | ADB | SB | Dislikes | Logi
 # More details
 Some of the projects in the list are worth adding some extra information which you will find below.
 ## Browser
-Use a browser of your choice + open source adblocker like [U Block Origin](https://ublockorigin.com/) + [SponsorBlock](https://sponsor.ajay.app/) addon + [Return YouTube Dislike](https://github.com/Anarios/return-youtube-dislike) addon + [Return YouTube Dislike](https://github.com/coffeerhyder/YouTube-alternative-Clients-and-Frontends-overview#return-youtube-dislike) addon.  
+Use a browser of your choice + open source adblocker like [U Block Origin](https://ublockorigin.com/) + [SponsorBlock](https://sponsor.ajay.app/) + addon + [Return YouTube Dislike](https://github.com/coffeerhyder/YouTube-alternative-Clients-and-Frontends-overview#return-youtube-dislike) addon.  
 Other addons worth mentioning: [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube)
 **Browser on mobile**
 On mobile, you'll need to install a browser, like [IceRaven](https://github.com/fork-maintainers/iceraven-browser) or [KiwiBrowser](https://kiwibrowser.com/), then install the addons from their respective adddon store.  
