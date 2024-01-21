@@ -1,5 +1,5 @@
 
-## **A lot of these projects are untested by the maintainer(s) of this GitHub project so use at your own risc!**
+## **A lot of these projects are untested by the maintainer(s) of this GitHub project so use at your own risk!**
 # YouTube-alternative-Clients-and-Frontends-overview
 Overview of alternative YouTube Clients and Frontends along with SponsorBlock and or Return YouTube Dislike integration
 
