@@ -1,3 +1,4 @@
+# 2025-06-11 I'm archiving this repo; if anyone wants to continue it, let me know.
 
 ## **A lot of these projects are untested by the maintainer(s) of this GitHub project so use at your own risk!**
 # YouTube-alternative-Clients-and-Frontends-overview
